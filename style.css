@@ -1,0 +1,46 @@
+html {
+
+}
+
+#headerr {
+    background-color: royalblue;
+
+}
+
+#containerr {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+a {
+
+}
+
+.sitebody{
+    height: 500px;
+}
+#mybrand {
+    color: white;
+}
+
+#mybrand:hover {
+    color: #dbdbdb;
+}
+
+.brand {
+
+}
+
+.right-float {
+
+}
+
+.btn-pill {
+    color: white;
+}
+
+.panel {
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
